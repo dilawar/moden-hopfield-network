@@ -32,3 +32,7 @@ auto  : stored memories=40, classified=10000, correct=69.6%, wrong=6.44%, unclas
 1. Krotov, D., & Hopfield, J. J. (2016). Dense associative memory for pattern
    recognition. Advances in neural information processing systems, 29.
    https://proceedings.neurips.cc/paper_files/paper/2016/file/eaae339c4d89fc102edd9dbdb6a28915-Paper.pdf
+
+# Demo
+
+A simple demo of pattern recognition: https://meena.subcom.link/
